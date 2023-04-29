@@ -1,0 +1,16 @@
+{
+  "cardBacks": [
+    "./images/cards/card_1.png",
+    "./images/cards/card_2.png",
+    "./images/cards/card_3.png",
+    "./images/cards/card_4.png",
+    "./images/cards/card_5.png",
+    "./images/cards/card_6.png",
+    "./images/cards/card_7.png",
+    "./images/cards/card_8.png",
+    "./images/cards/card_9.png",
+    "./images/cards/card_10.png",
+    "./images/cards/card_11.png",
+    "./images/cards/card_12.png"
+  ]
+}
